@@ -1,0 +1,7 @@
+{
+    "admin": {
+        "id": 1,
+        "password": "$2y$10$2waJwQ4EZDpTLknfaBfIeeRAVNtl\/IwiTApBGeYMjIzGy7o5WTIna",
+        "created_at": "2025-10-02 07:45:41"
+    }
+}
